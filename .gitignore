@@ -1,0 +1,8 @@
+
+active-paint.cbp
+active-paint.depend
+active-paint.layout
+bin/Release/active-paint.exe
+obj/Release/main.o
+bin/Release/whiteavocado64.dll
+bin/Release/color.list
